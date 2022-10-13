@@ -1,7 +1,6 @@
 # HGT-Model-Code
 Contains MATLAB scripts for a horizontal gene transfer model.
 
-README File by C. T. Jones, 13 October, 2022
 Figure01_Code.m - This code runs the deterministic model to generate the data used to produce Fig. 1 in the in article. 
 
 The relevant parameters are:
